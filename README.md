@@ -1,5 +1,5 @@
-### Hi there 👋
 
+CBT For AKM, Aplikasi Ujian untuk keperluan AKM bisa dilihat selengkapnya di https://github.com/xamzone/tmfajax
 <!--
 **cbtforakm/cbtforakm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
